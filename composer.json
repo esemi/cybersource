@@ -1,5 +1,5 @@
 {
-	"name": "chrismeller/cybersource",
+	"name": "esemi/cybersource",
 	"description": "A simple class for interfacing with some of the basic methods of the CyberSource SOAP Toolkit API for processing credit card transactions online.",
 	"license": "Apache-2.0",
 	"authors": [
